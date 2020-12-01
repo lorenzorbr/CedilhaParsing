@@ -1,0 +1,48 @@
+
+Total Corrupted Lines : 0
+Sales Data: 
+
+ SaleID: 10
+ Sale Info:  
+ Id: 1 Quantity: 10 Price: 100
+ Id: 2 Quantity: 30 Price: 2.50
+ Id: 3 Quantity: 40 Price: 3.10
+ Nome: Pedro
+ Total Price Of The Sale: 1199.0
+
+
+ SaleID: 08
+ Sale Info:  
+ Id: 1 Quantity: 34 Price: 10
+ Id: 2 Quantity: 33 Price: 1.50
+ Id: 3 Quantity: 40 Price: 0.10
+ Nome: Paulo
+ Total Price Of The Sale: 393.5
+
+Salesman Data: 
+
+ CPF: 79077247084
+ Name: Pedro
+ Salary: 50000.0
+
+ CPF: 74496002000
+ Name: Paulo
+ Salary: 40000.99
+Client Data: 
+
+ ID: 002
+ Client : Jose da Silva
+ CNPJ: 18957217000150
+ BusinessArea: Rural
+
+ ID: 002
+ Client : Eduardo Pereira
+ CNPJ: 41384680000171
+ BusinessArea: Rural
+
+Info of The File: 
+
+ Clients Quantity: 2
+ Salesman Quantity: 2
+ Most Expensive Sale ID: 10
+ Worst Salesman: Pedro
