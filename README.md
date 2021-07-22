@@ -1,4 +1,4 @@
-# DesafioAgibank
+# CedilhaParsing
 Desafio para implementar um sistema de tratamento de entradas com caracter especial(cedilha)
 # Introdução : 
 Esse é um codigo de validação de dados em um arquivo texto, dentro de uma pasta, onde possui como saída os dados do arquivo de entrada formatados, encontrados na pasta 'FileOut'. A cada 5 segundo é verificado alguma mudança no conteúdo do arquivo, caso sim, uma nova escrita será feita no arquivo de saída. O conteúdo do arquivo é convertido para o formato MD5 para fins de facilitar a verificação de mudanças internas.
